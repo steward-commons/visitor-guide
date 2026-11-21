@@ -3,3 +3,7 @@ __pycache__/
 *.pyo
 .Python
 .pytest_cache/
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
